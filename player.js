@@ -1,13 +1,13 @@
 const { Riffy } = require("riffy");
 const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require("discord.js");
-const { queueNames } = require("./commands/play");
+const { queueNames } = require("./commandsشplay");
 
 function initializePlayer(client) {
     const nodes = [
         {
             host: "lava-v3.ajieblogs.eu.org",
             port: 443,
-            password: "https://dsc.gg/ajidevserver",
+            password: "https://dsc.gg/b-b",
             secure: true
         },
     ];
