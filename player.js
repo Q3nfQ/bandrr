@@ -1,6 +1,6 @@
 const { Riffy } = require("riffy");
 const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require("discord.js");
-const { queueNames } = require("./commandsشplay");
+const { queueNames } = require("./commands/p");
 
 function initializePlayer(client) {
     const nodes = [
