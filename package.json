@@ -1,7 +1,7 @@
 {
-  "name": "Prime Music",
+  "name": "bad boys Music",
   "version": "1.0",
-  "description": "Music Bot",
+  "description": "bad boys Music Bot",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^14.15.1",
@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "GlaceYT",
+  "author": "bad boys",
   "license": "XX",
   "engines": {
     "node": "20.x"
