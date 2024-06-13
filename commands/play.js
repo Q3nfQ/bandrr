@@ -1,18 +1,11 @@
 /*
 
-  ________.__                        _____.___.___________
- /  _____/|  | _____    ____  ____   \__  |   |\__    ___/
-/   \  ___|  | \__  \ _/ ___\/ __ \   /   |   |  |    |   
-\    \_\  \  |__/ __ \\  \__\  ___/   \____   |  |    |   
- \______  /____(____  /\___  >___  >  / ______|  |____|   
-        \/          \/     \/    \/   \/                  
-
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by bad boys!                                               ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.com/invite/b-b                          ║
+║                                                                        ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -85,7 +78,7 @@ async function play(client, interaction) {
                 .setColor('#4d9fd6')
                 .setAuthor({
                     name: 'Request Update!',
-                    iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236794583732457473/7828-verify-ak.gif',
+                    iconURL: 'https://cdn.discordapp.com/attachments/1163577871265185865/1247388207402844261/standard_2.gif?ex=666c5e8b&is=666b0d0b&hm=8ac6dfdd1788dfb68a663e36ec98bd262b1147280045e03874f8e829b600623d&',
                     url: 'https://discord.gg/xQF9f9yUEM'
                 })
                 .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**'),
@@ -94,7 +87,7 @@ async function play(client, interaction) {
                 .setColor('#ffea00')
                 .setAuthor({
                     name: 'Request Update!',
-                    iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236802032938127470/4104-verify-yellow.gif',
+                    iconURL: 'https://cdn.discordapp.com/attachments/1163577871265185865/1247388207402844261/standard_2.gif?ex=666c5e8b&is=666b0d0b&hm=8ac6dfdd1788dfb68a663e36ec98bd262b1147280045e03874f8e829b600623d&',
                     url: 'https://discord.gg/xQF9f9yUEM'
                 })
                 .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**'),
@@ -103,7 +96,7 @@ async function play(client, interaction) {
                 .setColor('#FF0000')
                 .setAuthor({
                     name: 'Request Update!',
-                    iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236802049190920202/4104-verify-red.gif',
+                    iconURL: 'https://cdn.discordapp.com/attachments/1163577871265185865/1247388207402844261/standard_2.gif?ex=666c5e8b&is=666b0d0b&hm=8ac6dfdd1788dfb68a663e36ec98bd262b1147280045e03874f8e829b600623d&',
                     url: 'https://discord.gg/xQF9f9yUEM'
                 })
                 .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**')
@@ -139,20 +132,14 @@ module.exports = {
 
 
 /*
-
-  ________.__                        _____.___.___________
- /  _____/|  | _____    ____  ____   \__  |   |\__    ___/
-/   \  ___|  | \__  \ _/ ___\/ __ \   /   |   |  |    |   
-\    \_\  \  |__/ __ \\  \__\  ___/   \____   |  |    |   
- \______  /____(____  /\___  >___  >  / ______|  |____|   
-        \/          \/     \/    \/   \/                  
+               
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by bad boys!                                               ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.com/invite/b-b                          ║
+║                                                                        ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
