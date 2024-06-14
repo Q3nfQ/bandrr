@@ -6,7 +6,7 @@ function initializePlayer(client) {
     const nodes = [
               {
             host: "lava-v4.ajieblogs.eu.org",
-            password: "https://dsc.gg/ajidevserver",
+            password: "https://dsc.gg/b-b",
             port: 443,
             secure: true
         },
