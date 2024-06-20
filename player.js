@@ -5,10 +5,14 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
         {
-    host: "lavalink.oryzen.xyz",
-    port: 80, 
-    password: "oryzen.xyz", 
-     secure: false
+    HOST: 37.114.42.191
+
+    PORT: 7519
+
+    PASSWORD: danteisnttaken
+
+    SECURE: false
+
   },
     ];
 
